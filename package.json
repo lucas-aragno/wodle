@@ -1,6 +1,6 @@
 {
   "name": "wodle",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Modern™ static website generator with hot reloading",
   "main": "build/index.js",
   "repository": {

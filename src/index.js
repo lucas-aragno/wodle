@@ -36,7 +36,7 @@ const create = (appPath) => {
   const appName = removeSlash(appPath)
 
   fs.mkdirSync(appName)
-  applyTemplate(`${__dirname}/templates/.gitignore`, `${appName}/.gitignore`)
+  applyTemplate(`${__dirname}/templates/.gitignore-template`, `${appName}/.gitignore`)
   applyTemplate(`${__dirname}/templates/postcss.config.js`, `${appName}/postcss.config.js`)
   applyTemplate(`${__dirname}/templates/next.config.js`, `${appName}/next.config.js`)
   applyTemplate(`${__dirname}/templates/package.json`, `${appName}/package.json`, {'appName': appName})
