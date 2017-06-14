@@ -1,0 +1,29 @@
+{
+  "name": "wodle",
+  "version": "1.0.0",
+  "description": "Modern™ static website generator with hot reloading",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucas-aragno/thoth.git"
+  },
+  "keywords": [
+    "project",
+    "scaffold",
+    "website generator"
+  ],
+  "author": "Lucas Aragno <lucas.aragno157@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucas-aragno/thoth/issues"
+  },
+  "homepage": "https://github.com/lucas-aragno/thoth#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "copy-dir": "^0.3.0",
+    "handlebars": "^4.0.10"
+  },
+  "bin": {
+    "thot": "./bin/thot.js"
+  }
+}
