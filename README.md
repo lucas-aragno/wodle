@@ -22,7 +22,9 @@ Once Wodle is installed, you can use the `wodle` command. To build a new site yo
 wodle myBlog
 ```
 
-![demo](https://github.com/lucas-aragno/wodle/blob/master/images/aOdE6viaya.gif)
+<p align="center">
+  <img src="https://github.com/lucas-aragno/wodle/blob/master/images/aOdE6viaya.gif">
+</p>
 
 That will generate a new site called `myBlog` on the same directory where you ran the command
 
@@ -41,7 +43,9 @@ yarn dev
 
 And go to `localhost:3000/`, you should see a site like this one:
 
-![site](https://github.com/lucas-aragno/wodle/blob/master/images/site.png)
+<p align="center">
+  <img src="https://github.com/lucas-aragno/wodle/blob/master/images/site.png">
+</p>
 
 That server will listen to changes on your app and reload the browser.
 
