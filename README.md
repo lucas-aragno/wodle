@@ -22,6 +22,8 @@ Once Wodle is installed, you can use the `wodle` command. To build a new site yo
 wodle myBlog
 ```
 
+![demo](https://github.com/lucas-aragno/wodle/blob/master/images/aOdE6viaya.gif)
+
 That will generate a new site called `myBlog` on the same directory where you ran the command
 
 To get started with your new site you just need to cd into it and then install the dependencies:
