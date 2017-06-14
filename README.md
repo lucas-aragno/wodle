@@ -107,3 +107,6 @@ Your styles folder is for all your css (right now almost empty thanks to functio
 ### Extending the Site
 
 You can continue deleting pages (removing files from the `pages` folder) adding more pages, articles, options following the patterns on the scaffold or just change everything as you want! You can read great guides on Next.js site and Tachyons to make your awesome website or blog!
+
+
+based on previous art [chibicode.com](https://github.com/chibicode/chibicode.com) and [jspg](https://github.com/bryanjos/jspg)
