@@ -24,6 +24,6 @@
     "handlebars": "^4.0.10"
   },
   "bin": {
-    "thot": "./bin/thot.js"
+    "wodle": "./bin/wodle.js"
   }
 }
