@@ -39,7 +39,10 @@ That will fetch all the dependencies, once that's ready you can start a server r
 yarn dev
 ```
 
-And go to `localhost:3000/`.
+And go to `localhost:3000/`, you should see a site like this one:
+
+![site](https://github.com/lucas-aragno/wodle/blob/master/images/site.png)
+
 That server will listen to changes on your app and reload the browser.
 
 
