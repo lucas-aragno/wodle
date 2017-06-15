@@ -1,6 +1,6 @@
 # Wodle
 
-**Wodle** is a static site generator using new frameworks and tools for modern web development. It's built on top of [Next.js](https://zeit.co/blog/next) and [Tachyons](tachyons.io). And you can easily turn the generated static site into a fully dynamic website.
+**Wodle** is a static site generator using new frameworks and tools for modern web development. It's built on top of [Next.js](https://zeit.co/blog/next) and [Tachyons](http://tachyons.io/). And you can easily turn the generated static site into a fully dynamic website.
 
 ## Why?
 
