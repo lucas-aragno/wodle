@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lucas-aragno/thoth.git"
+    "url": "git+ssh://git@github.com:lucas-aragno/wodle.git"
   },
   "keywords": [
     "project",
@@ -15,9 +15,9 @@
   "author": "Lucas Aragno <lucas.aragno157@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucas-aragno/thoth/issues"
+    "url": "https://github.com/lucas-aragno/wodle/issues"
   },
-  "homepage": "https://github.com/lucas-aragno/thoth#readme",
+  "homepage": "https://github.com/lucas-aragno/wodle#readme",
   "dependencies": {
     "commander": "^2.9.0",
     "copy-dir": "^0.3.0",
